@@ -1,7 +1,9 @@
 namespace BankApp
 {
-    abstract class BankAccount
+    public abstract class BankAccount
     {
-        int UserMoney;
+        int funds;
+        double interestRate;
     }
+
 }

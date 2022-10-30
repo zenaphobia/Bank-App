@@ -1,9 +1,30 @@
 namespace BankApp
 {
-    abstract class UserAccount
+    public class UserAccount : Account
     {
-        string UserName;
-        int UserCreditScore;
-        
+        string firstName;
+        string lastName;
+        CheckingAccount checkingAccount { get; set; }
+        SavingsAccount savingsAccount { get; set; }
+        public UserAccount(string _firstName, string _lastName)
+        {
+            firstName = _firstName;
+            lastName = _lastName;
+        }
+
+        public CheckingAccount CheckingAccount
+        {
+            get { return checkingAccount; }
+            set { checkingAccount = value; }
+        }
+
+        public SavingsAccount SavingsAccount
+        {
+            get { return savingsAccount; }
+            set { savingsAccount = value }
+        }
+
+
+
     }
 }
