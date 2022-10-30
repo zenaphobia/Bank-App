@@ -21,7 +21,12 @@ namespace BankApp
         public SavingsAccount SavingsAccount
         {
             get { return savingsAccount; }
-            set { savingsAccount = value }
+            set { savingsAccount = value; }
+        }
+
+        public string GetName
+        {
+            get { return firstName + " " + lastName; }
         }
 
 
