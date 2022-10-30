@@ -1,0 +1,15 @@
+/home/alex/Documents/C#-Projects/BankApp/obj/Debug/net6.0/BankApp.csproj.AssemblyReference.cache
+/home/alex/Documents/C#-Projects/BankApp/obj/Debug/net6.0/BankApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/Documents/C#-Projects/BankApp/obj/Debug/net6.0/BankApp.AssemblyInfoInputs.cache
+/home/alex/Documents/C#-Projects/BankApp/obj/Debug/net6.0/BankApp.AssemblyInfo.cs
+/home/alex/Documents/C#-Projects/BankApp/obj/Debug/net6.0/BankApp.csproj.CoreCompileInputs.cache
+/home/alex/Documents/C#-Projects/BankApp/bin/Debug/net6.0/BankApp
+/home/alex/Documents/C#-Projects/BankApp/bin/Debug/net6.0/BankApp.deps.json
+/home/alex/Documents/C#-Projects/BankApp/bin/Debug/net6.0/BankApp.runtimeconfig.json
+/home/alex/Documents/C#-Projects/BankApp/bin/Debug/net6.0/BankApp.dll
+/home/alex/Documents/C#-Projects/BankApp/bin/Debug/net6.0/ref/BankApp.dll
+/home/alex/Documents/C#-Projects/BankApp/bin/Debug/net6.0/BankApp.pdb
+/home/alex/Documents/C#-Projects/BankApp/obj/Debug/net6.0/BankApp.dll
+/home/alex/Documents/C#-Projects/BankApp/obj/Debug/net6.0/ref/BankApp.dll
+/home/alex/Documents/C#-Projects/BankApp/obj/Debug/net6.0/BankApp.pdb
+/home/alex/Documents/C#-Projects/BankApp/obj/Debug/net6.0/BankApp.genruntimeconfig.cache
